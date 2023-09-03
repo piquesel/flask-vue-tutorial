@@ -1,0 +1,10 @@
+# .gitignore
+
+# Node modules
+frontend/frontend/node_modules/
+
+# Dist folder (if you have one)
+frontend/frontend/dist/
+
+# Environment files or secret files
+.env
